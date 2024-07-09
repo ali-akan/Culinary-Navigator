@@ -9,10 +9,4 @@ Culinary Navigator enables you to discover delectable recipes with your existing
 
 
 
-## Preview
-![image](https://github.com/TheNewC0der-24/recipe-finder/blob/master/Preview.png)
-
-
-
----
 
