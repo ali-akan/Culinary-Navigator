@@ -1,5 +1,5 @@
 <h1 align='center'>🍽️ Culinary Navigator 🍽️</h1>
-
+https://culinary-navigator.web.app/
 ## Introduction
 Culinary Navigator is an innovative tool that allows you to search for recipes using the ingredients you have on hand. Explore an extensive collection of dishes you can create immediately.
 
